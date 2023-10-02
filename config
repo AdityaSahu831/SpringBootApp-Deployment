@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://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@github.com/AdityaSahu831/SpringBootApp-Deployment
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = sahu00157@gmail.com
+	name = AdityaSahu831
+[credential]
+	username = AdityaSahu831
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
